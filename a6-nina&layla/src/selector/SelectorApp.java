@@ -15,7 +15,7 @@ import scissors.ScissorsSelectionModel;
 
 /**
  * A graphical application for selecting and extracting regions of images.
- */
+ * test github/
 public class SelectorApp implements PropertyChangeListener {
 
     /**
